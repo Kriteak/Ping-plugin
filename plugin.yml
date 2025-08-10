@@ -1,0 +1,6 @@
+name: PingTab
+main: me.kriteak.pingtab.PingTab
+version: 1.0
+api-version: 1.16
+author: Kriteak
+description: Shows player ping in tab list
